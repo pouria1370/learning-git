@@ -2,5 +2,5 @@ var man=document.activeElement;
 var man2=man.addEventListener("click",bio);
 function bio(){
 	
-	alert("hello world");
+	alert("hello worldooooooooo");
 }
